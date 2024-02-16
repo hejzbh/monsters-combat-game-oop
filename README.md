@@ -16,4 +16,5 @@
    <li>By clicking the 'Attack' button, we control the game</li>
    <li>Upon clicking, we generate a number from 0 to 100. If the number is greater than 50, the attacker is the first monster in the game, if the number is less than 50, the attacker is the second monster</li>
    <li>The first one to lose all health is the loser.</li>
+    <li>Open console to track a game</li>
  </ul>
