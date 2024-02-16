@@ -1,7 +1,6 @@
-<h1>The essence of this project is a summarized representation of the logic in the battle between monsters. The code is designed to be extensible. The OOP method 'Inheritance' is at the forefront</h1>
+<h2>The essence of this project is a summarized representation of the logic in the battle between monsters. The code is designed to be extensible. The OOP method 'Inheritance' is at the forefront</h2>
 
  <h2> Task: Create a game called "Monsters Combat"</h2>
- <br />
   <br />
  <h3>Game description:</h3>
  <ul>
