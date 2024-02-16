@@ -1,4 +1,5 @@
 <h2>The essence of this project is a summarized representation of the logic in the battle between monsters. The code is designed to be extensible. The OOP method 'Inheritance' is at the forefront</h2>
+<h3>In my project, js/index.js, I'm employing a modern approach using classes in JavaScript, whereas in js/oldWay.js, I showcase an older method relying on functions behaving as classes, demonstrating different implementation styles for the game.</h3>
 
  <h2> Task: Create a game called "Monsters Combat"</h2>
   <br />
